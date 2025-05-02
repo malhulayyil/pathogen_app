@@ -1,0 +1,15 @@
+const List<List<String>> pathogenData = [
+  ["1", "Bacillus Cereus, emetic form", "1-5 hours", "N common, V common", "24-36h", "Rice products"],
+  ["2", "Bacillus Cereus, diarrheal form", "8-16 hours", "D common", "24-36h", "Meat, Milk"],
+  ["3", "Clostridium Perfringens", "8-24 hours", "D common", "1-2 days", "Meat, Poultry"],
+  ["4", "Staphylococcus aureus", "2-6 hours", "V common", "1-3 days", "Meat, Salad"],
+  ["5", "Salmonella", "6-48 hours", "D common", "3-5 days", "Raw meat, eggs"],
+  ["6", "E. Coli (Pathogenic)", "1-6 days", "D with blood", "1-3 weeks", "Raw meat"],
+  ["7", "E. Coli (Toxigenic)", "1-3 days", "Cholera-like", "Up to 7 days", "Raw milk"],
+  ["8", "Campylobacter", "2-5 days", "D with mucus", "3-5 days", "Poultry, Milk"],
+  ["9", "Shigella", "1-3 days", "D with blood", "4-7 days", "Vegetables, Salad"],
+  ["10", "Listeria", "9-48 hours", "Flu-like", "Weeks", "Raw milk"],
+  ["11", "C. Botulinum", "12-36 hours", "Neurological", "Months", "Canned food"],
+  ["12", "Vibrio cholera", "1-3 days", "Profuse D", "7 days", "Water, Shellfish"],
+  ["13", "Norovirus", "12-50 hours", "Explosive V", "", "Salad, Ready food"],
+];
